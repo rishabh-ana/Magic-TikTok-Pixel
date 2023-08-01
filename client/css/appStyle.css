@@ -1,0 +1,10 @@
+.navigationMain {display:flex;padding:20px 0;margin-bottom: 40px;border-bottom: 1px solid lightgray;}
+.navigationMain > div{margin-left:30px;}
+.navigationMain > div a{text-decoration: none;color:#637381;}
+.navigationMain > div a:hover{color:#212b36;}
+.flex-container{display:flex;margin-top:10px;}
+.flex-container img{width:30%;}
+.flex-container-child{display:flex;margin-right: 40px;background: white;padding: 20px;}
+.flex-container-child > div:last-child{margin-left:-90px;}
+h1.app-name{font-weight: bold;font-size: 1.1em;}
+.flex-container a{color:black;text-decoration: none;}
